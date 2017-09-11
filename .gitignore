@@ -1,4 +1,5 @@
 ##ignore this file##
 tools/arm-linux-gcc
+tools/arm-linux-gcc.tar.gz
 build
 si
