@@ -275,7 +275,6 @@ void copy_uboot_to_ram(void)
 				*dst++ = buffer[i];
 			}
 		}
-		printascii("copy_uboot_to_ram done! \n");
 	}
 #else
 	if (copy_bl2) {
